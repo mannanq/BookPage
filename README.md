@@ -1,0 +1,3 @@
+- Designed a sample webpage for a book
+- Used SASS pre-processor in combination with Bootstrap-4
+- Added smooth-scrolling using JS
